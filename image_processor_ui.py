@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from Image_downloader import ImageDownloader
 from duplicate_remover import DuplicateRemover
-from process_image_with_excel import ProcessImage
+from process_image import ProcessImage
 
 
 class ImageProcessorApp:
